@@ -1,7 +1,7 @@
-### Conteo de vehiculos en una imagen y un video a traves de técnicas clásicas de procesmientos de imágenes. Se realizó con Python. 
+## Vehicle counting
+Project that counts the number of vehicles in an image and a video using classic image processing techniques. It was done with Python.
 
-# Colaboradores del proyecto
-
+## Project collaborators
 <ul>
   <li>@RogerCC123ABC</li>
   <li>@GerardoYael13</li>
